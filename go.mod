@@ -1,4 +1,4 @@
-module syncmapserver
+module github.com/aokabi/go-syncmapserver
 
 go 1.12
 
